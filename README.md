@@ -6,6 +6,10 @@ Traveling App project.
 
 "Wanderlust Explorer" is a Flutter-powered travel app designed to make your adventures effortless. Discover a variety of travel categories, explore handpicked trips, view detailed trip information, filter your preferences, and build a collection of your favorite destinations with a simple tap. Your dream journey begins here.
 
+
+
+## Screenshots
+
 ![1](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/7e213db5-f906-437e-82a4-550eecbefafd)
 ![2](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/825d65e0-f48c-4c93-8802-ce92c3ec64d5)
 ![3](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/ef46b71c-d142-4a7e-94cf-1c666f3d8242)

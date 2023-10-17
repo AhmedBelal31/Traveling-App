@@ -9,11 +9,25 @@ Traveling App project.
 
 
 ## Screenshots
+<p align="center">
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/7e213db5-f906-437e-82a4-550eecbefafd" width="400" />
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/825d65e0-f48c-4c93-8802-ce92c3ec64d5" width="400" />
+</p>
 
-![1](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/7e213db5-f906-437e-82a4-550eecbefafd)
-![2](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/825d65e0-f48c-4c93-8802-ce92c3ec64d5)
-![3](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/ef46b71c-d142-4a7e-94cf-1c666f3d8242)
-![4](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/9f0bbfd5-1459-424e-bfc5-a0fde0e0e45f)
-![5](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/20cb4d61-e4a4-43c4-af31-12e5f487d52c)
-![6](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/c6c3ab0b-dcde-4b36-9632-dd1324fafdf5)
-![7](https://github.com/AhmedBelal31/Traveling-App/assets/131663660/7c2911cd-3cd3-4b10-9477-52df0fa0fb14)
+
+<p align="center">
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/ef46b71c-d142-4a7e-94cf-1c666f3d8242" width="400" />
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/9f0bbfd5-1459-424e-bfc5-a0fde0e0e45f" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/20cb4d61-e4a4-43c4-af31-12e5f487d52c" width="400" />
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/c6c3ab0b-dcde-4b36-9632-dd1324fafdf5" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/83e23524-b362-4c9f-a32c-a91a5a26a79c" width="400" />
+  <img src="https://github.com/AhmedBelal31/Traveling-App/assets/131663660/7c2911cd-3cd3-4b10-9477-52df0fa0fb14" width="400" />
+</p>
+
+
